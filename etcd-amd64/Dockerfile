@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:2.2.5
+FROM gcr.io/google_containers/etcd:2.0.9
 MAINTAINER silenceshell <[email protected]
